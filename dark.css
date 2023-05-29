@@ -1,0 +1,16 @@
+:root {
+  --BGCOLOR: #0000;
+  --BGCOLOR-FADE: rgb(19, 17, 17);
+  --HEADER-BGCOLOR: #000;
+  --HEADER-COLOR: whitesmoke;
+  --NAV-BGCOLOR: rgb(20, 20, 20);
+  --HERO-COLOR: #333;
+  --BODY-BGCOLOR: #333;
+  --FONT-COLOR: whitesmoke;
+  --HIGHLIGHT-COLOR: whitesmoke;
+  --BORDER-COLOR: #333;
+  --LINK-COLOR: whitesmoke;
+  --LINK-HOVER: orange;
+  --LINK-ACTIVE: rgb(252, 200, 103);
+  --BOTTON-COLOR: #0000;
+}
